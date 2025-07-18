@@ -2,7 +2,7 @@
 
 **AngularLibraryExpress** is a library management web application. It allows users to authenticate themselves and manage authors, publishers, and books. The application is an administration panel for managing a library's core resources (authors, publishers, and books), with a basic authentication and access protection system. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
 
-AngularLibraryExpress/
+AngularLibraryExpress/  
 ├───app/  
 │   ├───guards/  
 │   │   └───auth-guard.service.ts  
